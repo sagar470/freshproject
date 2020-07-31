@@ -1,0 +1,2 @@
+# freshproject
+all basic learnt
